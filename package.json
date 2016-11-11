@@ -3,6 +3,8 @@
   "description": "Modellberechnung",
   "main": "modellberechnung.js",
   "dependencies": {
-    "tabris": "1.10"
+    "tabris": "1.10",
+	"promise": "^6.1.0",
+    "whatwg-fetch": "^0.7.0"
   }
 }
